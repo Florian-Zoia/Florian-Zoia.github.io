@@ -6,3 +6,7 @@ Monster Hunter: World[a] is an action role-playing game developed and published 
 * chocolate
 * chip 
 * cookies
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
